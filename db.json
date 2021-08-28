@@ -1,41 +1,6 @@
 {
   "products": [
     {
-      "title": "Dog Bed for Medium Dogs, Warming Washable Rectangle Pet Bed, Large Dog Bed with Waterproof Bottom for Large Dogs(28/31/37 inch)",
-      "price": "69.95",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/714K8HTr34S._AC_SL1500_.jpg",
-      "id": 1,
-      "description": "SECURE and COMFORTABLE DOG BED: Raised rim provides support for pets neck and head and creates a sense of security. Bump design suitable for dog body, give your dog a better rest. PREMIUM MATERIALS: The calming pet bed equipped with the high quality soft-to-touch fluff on top rest surface, providing a soft and fluffy support, while the surrounding Oxford fabric for durable quality. WATERPROOF BOTTOM: This medium dog bed designed with waterproof bottom, absolutely waterproof bottom, prevent all liquid from entering the dog bed. Keep bed dry and reduce the amount of cleaning. SIZE AND SUGGESTIONS: Medium dog bed(28'x22') perfect for small dogs, puppies or multiple small pets under 25lbs; Large dog bed(31'x26') for medium dogs under 35lbs, X-large dog bed (37'x30') for large dogs under 50lbs. NOTE: Since dog bed is vacuum packed, please use your hands to pat sides of the bed, and wait for 48-72 lets it recover original shape. We will take full responsibility for the product, if you have any questions, simply reach out to our customer service team."
-    },
-    {
-      "title": "Furhaven Pet Dog Bed - Deluxe Orthopedic Two-Tone Plush and Suede L Shaped Chaise Lounge Living Room Corner Couch Pet Bed with Removable Cover for Dogs and Cats, Stone Gray, Jumbo",
-      "price": "29.99",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71LNKZ5od5L._AC_SY450_.jpg",
-      "id": 2,
-      "description": "DESIGNED FOR PETS: The bolstered L-shaped corner sofa design promotes ultimate comfort and security, providing high-loft orthopedic cushion support as well as a super cozy nestling and burrowing space for dogs and cats. SLEEP SURFACE: The main sleep surface is lined with cuddly soft, plush faux fur, while the supportive bolsters are wrapped in easy-care suede; both materials are gentle on noses and paws for enhanced snuggling and burrowing comfort. EASY ON JOINTS: The egg crate orthopedic foam base helps cushion pressure points and improve air circulation, while the fluff-filled bolster railings support the neck, back, hips, and joints; both help to ease discomfort and encourage restful sleep. PRODUCT DETAILS: Stone Gray; Jumbo, 44' x 35' x 8' (4' Foam; Sleep Surface: Approx. 38' x 29'). AVAILABLE VARIANTS: The bed comes in Espresso, Dark Sage, Stone Gray, and Marine Blue; it's also available in Small, Medium, Large, Jumbo, and Jumbo Plus."
-    },
-    {
-      "title": "Rabbitgoo Dog Harness, No-Pull Pet Harness with 2 Leash Clips, Adjustable Soft Padded Dog Vest, Reflective No-Choke Pet Oxford Vest with Easy Control Handle for Large Dogs, Black, L",
-      "price": "29.99",
-      "image": "https://www.all-about-mastiff-dog-breed.com/images/Easy-Walk-Dog-Harness-Mastiff-reflective-H6.jpg",
-      "id": 3,
-      "description": "【 Large Dog Harness 】 - Recommended Breeds: Medium to Large Dogs, such as Golden Retriever, Huskie, Labrador, Alaska, German Shepherd, Akita, etc. Please measure the size carefully before purchasing this present for your puppy. Make your puppy stand out with this Classic Black Harness! 【 No Pull, No Choke 】- Our non-pulling dog harness is specially designed with 2 metal leash rings for safer dog walks. Use the chest attachment clip to stop your dog from pulling on walks, perfect for dog training or dogs who tend to pull. The back one is great for casual walks, jogging, hiking, etc. 【 Easy to Use 】- This hassle-free overhead harness is easy to put on and take off with its 2 fast-release buckles. Slide the harness over your dog's head, buckle it up, adjust the straps, and here you go! Grab the top handle for additional control. Lightweight and easy to clean. 【 Fully Adjustable 】- This adjustable harness features 4 easy adjusting straps around the body. You can use its 2 neck straps and 2 chest straps to create a perfect fit for your dog with some room of growth. No worries about slipping out or choking. 【 Safe and Comfortable 】- Your dog will enjoy the daily walk in this comfort dog harness! Made of durable nylon oxford and padded with soft cushion to protect your dog's skin. Breathable air mesh keeps your dog cool during outdoor activities. Super bright reflective strips ensure a safe walk both day and night."
-    },
-    {
-      "title": "Dog Toys for Aggressive Chewers Large Breed Suction Cup Dog Toy for Dog Tug Toy Interactive Dog Toys Indestructible Dog Puzzle Toys",
-      "price": "29.99",
-      "image": "https://allpetslife.com/wp-content/uploads/suction-cup-dog-toy-with-ball.jpg",
-      "id": 4,
-      "description": "Suction cup dog toy with two strong suction cups can withstand greater pulling force. the suction cup dog chew toys can withstand a pulling force of up to 200lbs,even a grumpy dog can chew, bite, and tug of war. Dog toys for aggressive chewers is multifunctional pet toy, the dog puzzle toys is designed with tooth cleaning and tooth grinding functions.it can train pets' agility well, and can also be used for food distribution. Interactive dog toys built-in small whistle,squeaking sounding design is added to the bottom of the molar ball which will make a special sound to improve the dog's mind attention and interests, reducing the dog's boring time and the desire to destroy the furniture. Tug toy for dogs can work well on smooth and flat surface, and each package has two floor sticker,so you can put the floor sticker on matte wood floors and walls surfaces , the floor sticker will provide stronger suction for the suction cup. Dog toys for aggressive chewers large breed with different size of molar granular around 360 ° surface of the ball , dog chew toys can clean the food residue in the teeth, preventing gum disease, improve the dog's oral health."
-    },
-    {
-      "title": "TRIXIE Miguel Fold and Store Cat Hammock | Dangling Pom Poms | Scratching Pad | Cat Cave",
-      "price": "79.95",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/91oDHSh8n1L._AC_SL1500_.jpg",
-      "id": 5,
-      "description": "Size: 20.25 x 13.75 x 25.5 inches. Ideal for small spaces. Simply fold shut for quick and easy storage. Condo and toy lying hammock wrapped in soft plush. Natural sisal scratching surface. Removable cushion: hand wash."
-    },
-    {
       "title": "itPlus Cat Grooming Brush, Self Cleaning Slicker Brushes for Dogs Cats Pet Grooming Brush Tool Gently Removes Loose Undercoat, Mats Tangled Hair Slicker Brush for Pet Massage-Self Cleaning",
       "price": 45.95,
       "image": "https://images-na.ssl-images-amazon.com/images/I/71fyIoWUkRL._AC_SL1500_.jpg",
@@ -118,22 +83,6 @@
       "image_2": "https://m.media-amazon.com/images/I/71iik25jvnL._AC_SL1000_.jpg",
       "image_3": "https://m.media-amazon.com/images/I/91TiCc4Fx4L._AC_SL1500_.jpg",
       "category": "Dog"
-    },
-    {
-      "title": "JOEJOY Dog Bed Crate Pad, Ultra Soft Calming Washable Anti-Slip Mattress Kennel Crate Bed Pad Mat 24/30/36/42 Inch for Large Extra Large Medium Small Dogs and Cats Sleeping, Anti-Slip Dog Cushion",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71rpFYLkhaL._AC_SL1500_.jpg",
-      "price": "32.99",
-      "description": "【Premium Dog Bed Pad】:JOEJOY Dog Crate Pad Made from soft polyester filler. Use plenty of padding, very thick, soft and squishy, Perfect for dogs/cats who curled up in their sleep, rest or nap. Because of vacuum packaging, please use your hands to pat, shake the pet bed, and wait for 1-2 days to make it back to fluffy status.\n【Dog Bed Mat Size Detail】:40 Inch dog crate pad measures approximately 40 x27 x 3 (L x W x H) fits 42L'' crates pad .This dog crate bed suitable for large breeds of dogs . Works great as a stand-alone pet bed for dog & cats 71-90 pounds. Measure how long your dog is and then add about six inches to a foot to the actual measurement. The size is finished measurement, there is a slight error, if you are not sure whether the size is suitable for your dog, please choose a larger size.\n【Anti-Slip Crate Bed Design】Non-Skid and Dirt-Resistant bottom design keep the crate mat in position firmly, also avoid any unwanted accidents, steady and safe. Ideals for using in crates, hardwood floors or sofa.It can be used in crates, carriers, on vehicles, car seats, or even travel.\n【Washable Dog Bed】: Machine washable as a whole in cold water, we usually recommend hand washing.gentle cycle and thoroughly dried in dryer directly on low heat after washing and do not air dry. Regular washing can avoid dirt and provide a comfortable sleeping environment for your pet.\n【24 Hours Online Service】:One more thing, our dog crate bed not suitable for puppies or dogs with excessive teething or chewing behavior.Because this dog bed is not indestructible. If you have any question about our plush dog bed, please feel free contact us and we will help you to solve your problems as soon as possible!\n",
-      "userId": "jvk1xsgqzubrQaU5P01SHgnbdvU2",
-      "id": 13
-    },
-    {
-      "title": "Hivernou Dog Whistle to Stop Barking,Adjustable Pitch Ultrasonic Dog Training Whistle Silent Bark Control for Dogs- 1 Pack Dog Whistle with Free Lanyard Strap",
-      "price": "29.95",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61FMn2y1DEL._AC_SL1500_.jpg",
-      "description": "👍【Easy-to-use Dog Training Whistle】With adjustable frequency, Hivernou dog whistle allows you to train your dog to stop barking , sit, come, lay down, stay and so on through ultrasonic of the whistle.\n👍【Safe Dog Whistle to Stop Barking】Made of harmless material, Hivernou ultrasonic dog whistle can help to stop your dog’s useless barking without any damage to their hearing. You can use this silent bark control whistle for dogs training without any health concerns.\n👍 【Anti-loss Dog Whistle】Our dog whistle comes with new dual anti loss features on account of the special lock nut and free lanyard. You can take this silent dog whistle to anywhere without worrying the lost.\n👍【High Quality Bark Control Whistle】Our dog whistle is designed with reasonable small size & comes in premium metal black color.Besides, this bark control whistle is long lasting and rust proof.\n.\n👍【100% Satisfactory Dog Whistle】Hivernou dog whistle offers lifetime money back guarantee! If you are not 100% satisfied with this ultrasonic whistle,please contact us.We will make a replacement or full refund to you.\n\n",
-      "userId": "jvk1xsgqzubrQaU5P01SHgnbdvU2",
-      "id": 14
     },
     {
       "title": "Manificent Dog Cone for Dog After Surgery with Buckle Clip, Soft Recovery Cone Collar for Dog and Cat, Prevent Pet Puppy Bite Licking Scratching Touching, Help Dog Healing from Wound Large Size",
